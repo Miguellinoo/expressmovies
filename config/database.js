@@ -4,7 +4,7 @@ const koneksi = mysql.createConnection ({
     host: 'localhost',
     user: 'root',
     password: '',
-    database: 'db_moovies',
+    database: 'dbmovie',
     multiplestatements: true 
 });
 // koneksi database
